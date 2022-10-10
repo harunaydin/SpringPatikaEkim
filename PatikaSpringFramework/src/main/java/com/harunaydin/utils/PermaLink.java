@@ -2,5 +2,5 @@ package com.harunaydin.utils;
 
 public class PermaLink {
 
-    // GITHUB
+    // GITHUB:  https://github.com/harunaydin/SpringPatikaEkim
 }
