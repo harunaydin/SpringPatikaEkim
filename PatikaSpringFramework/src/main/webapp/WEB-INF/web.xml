@@ -17,6 +17,6 @@
         <url-pattern>*.xhtml</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
-        <welcome-file>/qualifier/PatronCalisan.xhtml</welcome-file>
+        <welcome-file>/qualifier2/PatronCalisan.xhtml</welcome-file>
     </welcome-file-list>
 </web-app>
